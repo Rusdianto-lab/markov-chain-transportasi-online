@@ -1,0 +1,451 @@
+responden_id,kota,gender,kelompok_usia,periode,urutan_periode,aplikasi_sebelumnya,aplikasi_digunakan,status_perpindahan,alasan_perpindahan,estimasi_tarif_idr
+JKT001,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,28500
+JKT001,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Grab,Pindah,Kualitas layanan driver,27500
+JKT001,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Grab,Gojek,Pindah,Kualitas layanan driver,37000
+JKT002,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,41000
+JKT002,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,24000
+JKT002,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Gojek,Grab,Pindah,Error aplikasi,21500
+JKT003,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,36500
+JKT003,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,28500
+JKT003,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,31000
+JKT004,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,24000
+JKT004,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,29000
+JKT004,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,26500
+JKT005,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,35000
+JKT005,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,25500
+JKT005,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,29000
+JKT006,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,16000
+JKT006,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,33000
+JKT006,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,34500
+JKT007,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,37000
+JKT007,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,23500
+JKT007,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Grab,Pindah,Harga/Promo lebih murah,30500
+JKT008,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,36500
+JKT008,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Grab,Pindah,Rekomendasi teman,25500
+JKT008,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,46500
+JKT009,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,24000
+JKT009,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Grab,Gojek,Pindah,Harga/Promo lebih murah,37000
+JKT009,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Gojek,Grab,Pindah,Kualitas layanan driver,20000
+JKT010,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,25000
+JKT010,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Grab,Pindah,Harga/Promo lebih murah,29500
+JKT010,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Grab,Gojek,Pindah,Error aplikasi,20000
+JKT011,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,38500
+JKT011,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,21000
+JKT011,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,29500
+JKT012,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,29500
+JKT012,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Grab,Pindah,Harga/Promo lebih murah,33000
+JKT012,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,41000
+JKT013,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,34500
+JKT013,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,29500
+JKT013,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Gojek,Grab,Pindah,Error aplikasi,27500
+JKT014,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,25000
+JKT014,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,18000
+JKT014,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Grab,Gojek,Pindah,Error aplikasi,21000
+JKT015,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,23500
+JKT015,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,31000
+JKT015,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Grab,Pindah,Rekomendasi teman,22000
+JKT016,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,27500
+JKT016,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,27500
+JKT016,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,27000
+JKT017,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,14000
+JKT017,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,28000
+JKT017,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Grab,Gojek,Pindah,Ketersediaan driver,28000
+JKT018,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,32000
+JKT018,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,21000
+JKT018,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,37500
+JKT019,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,25000
+JKT019,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Grab,Pindah,Ketersediaan driver,43000
+JKT019,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,20500
+JKT020,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,22500
+JKT020,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,23000
+JKT020,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Gojek,Grab,Pindah,Harga/Promo lebih murah,31000
+JKT021,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,36500
+JKT021,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,32000
+JKT021,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Grab,Pindah,Harga/Promo lebih murah,37500
+JKT022,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,30000
+JKT022,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,15000
+JKT022,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,27000
+JKT023,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,23500
+JKT023,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Grab,Pindah,Error aplikasi,28000
+JKT023,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Grab,Gojek,Pindah,Harga/Promo lebih murah,35000
+JKT024,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,22500
+JKT024,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,26000
+JKT024,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,31000
+JKT025,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,24000
+JKT025,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,34000
+JKT025,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,29500
+JKT026,Jakarta,Laki-laki,< 20 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,23000
+JKT026,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Grab,Gojek,Pindah,Ketersediaan driver,39500
+JKT026,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Gojek,Grab,Pindah,Harga/Promo lebih murah,23000
+JKT027,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,43000
+JKT027,Jakarta,Perempuan,< 20 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,20500
+JKT027,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,30500
+JKT028,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,48500
+JKT028,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,17500
+JKT028,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,34500
+JKT029,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,29000
+JKT029,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,37500
+JKT029,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,36500
+JKT030,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,33500
+JKT030,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,32000
+JKT030,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Grab,Pindah,Harga/Promo lebih murah,43500
+JKT031,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,28500
+JKT031,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Grab,Gojek,Pindah,Ketersediaan driver,41500
+JKT031,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,36500
+JKT032,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,11000
+JKT032,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,35000
+JKT032,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,33500
+JKT033,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,19000
+JKT033,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,29000
+JKT033,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Grab,Gojek,Pindah,Kualitas layanan driver,23500
+JKT034,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,44000
+JKT034,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,34000
+JKT034,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Grab,Gojek,Pindah,Harga/Promo lebih murah,30000
+JKT035,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,25500
+JKT035,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Grab,Pindah,Harga/Promo lebih murah,35000
+JKT035,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,20500
+JKT036,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,30500
+JKT036,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,19500
+JKT036,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Grab,Gojek,Pindah,Ketersediaan driver,35000
+JKT037,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,33000
+JKT037,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,21500
+JKT037,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,31000
+JKT038,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,32500
+JKT038,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,23000
+JKT038,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,23500
+JKT039,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,23000
+JKT039,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,37500
+JKT039,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Grab,Pindah,Ketersediaan driver,21000
+JKT040,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,35500
+JKT040,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,23500
+JKT040,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,39000
+JKT041,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,24500
+JKT041,Jakarta,Laki-laki,< 20 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,27500
+JKT041,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,13500
+JKT042,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,33000
+JKT042,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,20500
+JKT042,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,28000
+JKT043,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,31000
+JKT043,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,21500
+JKT043,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Gojek,Grab,Pindah,Ketersediaan driver,35000
+JKT044,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,23500
+JKT044,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Grab,Pindah,Harga/Promo lebih murah,42000
+JKT044,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,19500
+JKT045,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,31500
+JKT045,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,27500
+JKT045,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,40000
+JKT046,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,36500
+JKT046,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Grab,Pindah,Rekomendasi teman,25000
+JKT046,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Grab,Gojek,Pindah,Error aplikasi,32000
+JKT047,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,27500
+JKT047,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,26500
+JKT047,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,38500
+JKT048,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,29500
+JKT048,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,24500
+JKT048,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,23500
+JKT049,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,21500
+JKT049,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Grab,Gojek,Pindah,Kualitas layanan driver,28000
+JKT049,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,40500
+JKT050,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,31000
+JKT050,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Grab,Pindah,Harga/Promo lebih murah,27500
+JKT050,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Grab,Gojek,Pindah,Harga/Promo lebih murah,25500
+JKT051,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,33500
+JKT051,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,14000
+JKT051,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Grab,Gojek,Pindah,Ketersediaan driver,32500
+JKT052,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,19500
+JKT052,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,34500
+JKT052,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,30000
+JKT053,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,23500
+JKT053,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,25500
+JKT053,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Gojek,Grab,Pindah,Harga/Promo lebih murah,16500
+JKT054,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,35500
+JKT054,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,33500
+JKT054,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,26500
+JKT055,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,31000
+JKT055,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,40000
+JKT055,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,29500
+JKT056,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,36500
+JKT056,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,36000
+JKT056,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Grab,Gojek,Pindah,Harga/Promo lebih murah,18000
+JKT057,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,21000
+JKT057,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Grab,Pindah,Ketersediaan driver,37000
+JKT057,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Grab,Gojek,Pindah,Rekomendasi teman,19500
+JKT058,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,26000
+JKT058,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Grab,Pindah,Kualitas layanan driver,39000
+JKT058,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,22000
+JKT059,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,20000
+JKT059,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,24000
+JKT059,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Grab,Gojek,Pindah,Error aplikasi,38500
+JKT060,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,24000
+JKT060,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,20000
+JKT060,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Gojek,Grab,Pindah,Harga/Promo lebih murah,30000
+JKT061,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,29500
+JKT061,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Gojek,Grab,Pindah,Ketersediaan driver,30500
+JKT061,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Grab,Gojek,Pindah,Harga/Promo lebih murah,32000
+JKT062,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,19000
+JKT062,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,37000
+JKT062,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,32500
+JKT063,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,30000
+JKT063,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,30500
+JKT063,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,32000
+JKT064,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,30500
+JKT064,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,29000
+JKT064,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Grab,Gojek,Pindah,Error aplikasi,29000
+JKT065,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,41500
+JKT065,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Grab,Pindah,Harga/Promo lebih murah,31000
+JKT065,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,38500
+JKT066,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,53500
+JKT066,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Grab,Gojek,Pindah,Ketersediaan driver,33000
+JKT066,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,33000
+JKT067,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,29500
+JKT067,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,40500
+JKT067,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,18000
+JKT068,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,12000
+JKT068,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,38000
+JKT068,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,32500
+JKT069,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,36500
+JKT069,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Grab,Gojek,Pindah,Ketersediaan driver,29500
+JKT069,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,30500
+JKT070,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,24000
+JKT070,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,23500
+JKT070,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,21500
+JKT071,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,33500
+JKT071,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Grab,Gojek,Pindah,Ketersediaan driver,35000
+JKT071,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,26500
+JKT072,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,28000
+JKT072,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,18500
+JKT072,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Gojek,Grab,Pindah,Ketersediaan driver,37500
+JKT073,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,43500
+JKT073,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,26000
+JKT073,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Grab,Pindah,Error aplikasi,28000
+JKT074,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,35000
+JKT074,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Grab,Gojek,Pindah,Kualitas layanan driver,24000
+JKT074,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,28500
+JKT075,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,28000
+JKT075,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Grab,Pindah,Rekomendasi teman,36500
+JKT075,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,32500
+JKT076,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,22000
+JKT076,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,20500
+JKT076,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,26000
+JKT077,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,35000
+JKT077,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,30000
+JKT077,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,28000
+JKT078,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,34500
+JKT078,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,31500
+JKT078,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Gojek,Grab,Pindah,Ketersediaan driver,37500
+JKT079,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,32000
+JKT079,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Grab,Pindah,Harga/Promo lebih murah,21000
+JKT079,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Grab,Gojek,Pindah,Kualitas layanan driver,33500
+JKT080,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,42500
+JKT080,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,22500
+JKT080,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Gojek,Grab,Pindah,Harga/Promo lebih murah,34000
+JKT081,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,36000
+JKT081,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,29000
+JKT081,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Grab,Gojek,Pindah,Error aplikasi,25500
+JKT082,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,30000
+JKT082,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,29000
+JKT082,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,30000
+JKT083,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,33000
+JKT083,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Grab,Gojek,Pindah,Harga/Promo lebih murah,33500
+JKT083,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,21000
+JKT084,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,29000
+JKT084,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,26500
+JKT084,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,16500
+JKT085,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,27000
+JKT085,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,27500
+JKT085,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,35000
+JKT086,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,30500
+JKT086,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,21500
+JKT086,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Grab,Gojek,Pindah,Ketersediaan driver,32000
+JKT087,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,21000
+JKT087,Jakarta,Perempuan,< 20 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,36500
+JKT087,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,34000
+JKT088,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,32500
+JKT088,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,25500
+JKT088,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,25000
+JKT089,Jakarta,Perempuan,< 20 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,22500
+JKT089,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Grab,Gojek,Pindah,Harga/Promo lebih murah,34000
+JKT089,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,29000
+JKT090,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,29500
+JKT090,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,31500
+JKT090,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,30000
+JKT091,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,28500
+JKT091,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,37500
+JKT091,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Grab,Gojek,Pindah,Ketersediaan driver,21000
+JKT092,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,27000
+JKT092,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,23500
+JKT092,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,43000
+JKT093,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,51000
+JKT093,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Grab,Gojek,Pindah,Harga/Promo lebih murah,28500
+JKT093,Jakarta,Laki-laki,< 20 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,22500
+JKT094,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,45500
+JKT094,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,28000
+JKT094,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,31500
+JKT095,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,27500
+JKT095,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,25500
+JKT095,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Grab,Pindah,Kualitas layanan driver,17000
+JKT096,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,27500
+JKT096,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Grab,Gojek,Pindah,Harga/Promo lebih murah,41000
+JKT096,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Gojek,Grab,Pindah,Harga/Promo lebih murah,32500
+JKT097,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,28000
+JKT097,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Grab,Gojek,Pindah,Rekomendasi teman,33500
+JKT097,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,30000
+JKT098,Jakarta,Laki-laki,< 20 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,36000
+JKT098,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,39000
+JKT098,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Grab,Pindah,Kualitas layanan driver,23500
+JKT099,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,26000
+JKT099,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Grab,Gojek,Pindah,Ketersediaan driver,20500
+JKT099,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,25000
+JKT100,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,32000
+JKT100,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Grab,Gojek,Pindah,Ketersediaan driver,22000
+JKT100,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,23000
+JKT101,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,22500
+JKT101,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Grab,Gojek,Pindah,Rekomendasi teman,36500
+JKT101,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,42500
+JKT102,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,21000
+JKT102,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,32500
+JKT102,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,34000
+JKT103,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,33000
+JKT103,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,36500
+JKT103,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,30000
+JKT104,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,30000
+JKT104,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Grab,Gojek,Pindah,Harga/Promo lebih murah,18000
+JKT104,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Gojek,Grab,Pindah,Harga/Promo lebih murah,38500
+JKT105,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,31500
+JKT105,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Grab,Pindah,Ketersediaan driver,12500
+JKT105,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Grab,Gojek,Pindah,Kualitas layanan driver,23500
+JKT106,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,27000
+JKT106,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,36500
+JKT106,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,33000
+JKT107,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,33000
+JKT107,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,31500
+JKT107,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,35000
+JKT108,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,15000
+JKT108,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Grab,Gojek,Pindah,Harga/Promo lebih murah,33000
+JKT108,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,26000
+JKT109,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,20000
+JKT109,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,23500
+JKT109,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,24000
+JKT110,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,29500
+JKT110,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,37500
+JKT110,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Grab,Gojek,Pindah,Kualitas layanan driver,20500
+JKT111,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,31500
+JKT111,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,37000
+JKT111,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Grab,Pindah,Ketersediaan driver,18000
+JKT112,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,24500
+JKT112,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,27000
+JKT112,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Grab,Pindah,Harga/Promo lebih murah,29000
+JKT113,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,34000
+JKT113,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,40500
+JKT113,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,17500
+JKT114,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,29000
+JKT114,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Grab,Pindah,Error aplikasi,39500
+JKT114,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,25500
+JKT115,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,32000
+JKT115,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,34500
+JKT115,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,22500
+JKT116,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,33000
+JKT116,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,26000
+JKT116,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,22000
+JKT117,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,29500
+JKT117,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Grab,Gojek,Pindah,Harga/Promo lebih murah,32500
+JKT117,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,23000
+JKT118,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,20000
+JKT118,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,15500
+JKT118,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Gojek,Grab,Pindah,Ketersediaan driver,27500
+JKT119,Jakarta,Perempuan,< 20 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,22000
+JKT119,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Grab,Gojek,Pindah,Ketersediaan driver,34000
+JKT119,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Gojek,Grab,Pindah,Harga/Promo lebih murah,33500
+JKT120,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,29000
+JKT120,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Grab,Pindah,Kualitas layanan driver,20500
+JKT120,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,32000
+JKT121,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,25000
+JKT121,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,23500
+JKT121,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,36000
+JKT122,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,34000
+JKT122,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Grab,Gojek,Pindah,Harga/Promo lebih murah,32500
+JKT122,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,28500
+JKT123,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,28500
+JKT123,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Gojek,Grab,Pindah,Kualitas layanan driver,32000
+JKT123,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,39500
+JKT124,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,25000
+JKT124,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,19500
+JKT124,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,25500
+JKT125,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,29000
+JKT125,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Grab,Gojek,Pindah,Harga/Promo lebih murah,36500
+JKT125,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Grab,Pindah,Harga/Promo lebih murah,16500
+JKT126,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,22500
+JKT126,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,40000
+JKT126,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Grab,Gojek,Pindah,Rekomendasi teman,38000
+JKT127,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,32500
+JKT127,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,28000
+JKT127,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Grab,Gojek,Pindah,Kualitas layanan driver,34000
+JKT128,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,23000
+JKT128,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Grab,Pindah,Ketersediaan driver,29500
+JKT128,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,18000
+JKT129,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,24500
+JKT129,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Grab,Pindah,Ketersediaan driver,17500
+JKT129,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,13000
+JKT130,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,21000
+JKT130,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,26500
+JKT130,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Grab,Pindah,Harga/Promo lebih murah,31500
+JKT131,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,25500
+JKT131,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Grab,Pindah,Harga/Promo lebih murah,34500
+JKT131,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Grab,Gojek,Pindah,Harga/Promo lebih murah,35500
+JKT132,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,33000
+JKT132,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,38500
+JKT132,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,21500
+JKT133,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,30000
+JKT133,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,18000
+JKT133,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Grab,Gojek,Pindah,Ketersediaan driver,27000
+JKT134,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,25500
+JKT134,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,21000
+JKT134,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Grab,Gojek,Pindah,Kualitas layanan driver,32000
+JKT135,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,19500
+JKT135,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Grab,Gojek,Pindah,Kualitas layanan driver,38500
+JKT135,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,19000
+JKT136,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,22500
+JKT136,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Grab,Gojek,Pindah,Harga/Promo lebih murah,32500
+JKT136,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,42000
+JKT137,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,32500
+JKT137,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Grab,Gojek,Pindah,Harga/Promo lebih murah,27500
+JKT137,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,32000
+JKT138,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,37000
+JKT138,Jakarta,Laki-laki,30-49 tahun,Des-2022,2,Gojek,Grab,Pindah,Harga/Promo lebih murah,36000
+JKT138,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,27000
+JKT139,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,26000
+JKT139,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,35500
+JKT139,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Grab,Gojek,Pindah,Harga/Promo lebih murah,31000
+JKT140,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,25000
+JKT140,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,26500
+JKT140,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,40000
+JKT141,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,33000
+JKT141,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Gojek,Grab,Pindah,Ketersediaan driver,33500
+JKT141,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,24000
+JKT142,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,44000
+JKT142,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Grab,Pindah,Kualitas layanan driver,31000
+JKT142,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Grab,Gojek,Pindah,Kualitas layanan driver,32000
+JKT143,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,23500
+JKT143,Jakarta,Laki-laki,20-30 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,23000
+JKT143,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,32000
+JKT144,Jakarta,Perempuan,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,19500
+JKT144,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,25500
+JKT144,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Gojek,Gojek,Tetap,Loyal / tidak pindah,11000
+JKT145,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,29500
+JKT145,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,25500
+JKT145,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Grab,Gojek,Pindah,Error aplikasi,21500
+JKT146,Jakarta,Perempuan,20-30 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,27000
+JKT146,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,43500
+JKT146,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Gojek,Grab,Pindah,Ketersediaan driver,36000
+JKT147,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,33000
+JKT147,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,15000
+JKT147,Jakarta,Perempuan,20-30 tahun,Jan-2023,3,Grab,Gojek,Pindah,Ketersediaan driver,41500
+JKT148,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Gojek,Awal,Pilihan awal,37500
+JKT148,Jakarta,Perempuan,30-49 tahun,Des-2022,2,Gojek,Gojek,Tetap,Loyal / tidak pindah,34500
+JKT148,Jakarta,Perempuan,30-49 tahun,Jan-2023,3,Gojek,Grab,Pindah,Kualitas layanan driver,33000
+JKT149,Jakarta,Laki-laki,20-30 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,38000
+JKT149,Jakarta,Laki-laki,< 20 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,31500
+JKT149,Jakarta,Laki-laki,30-49 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,36000
+JKT150,Jakarta,Laki-laki,30-49 tahun,Nov-2022,1,-,Grab,Awal,Pilihan awal,27000
+JKT150,Jakarta,Perempuan,20-30 tahun,Des-2022,2,Grab,Grab,Tetap,Loyal / tidak pindah,37500
+JKT150,Jakarta,Laki-laki,20-30 tahun,Jan-2023,3,Grab,Grab,Tetap,Loyal / tidak pindah,28500
